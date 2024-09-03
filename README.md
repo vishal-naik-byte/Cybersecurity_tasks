@@ -20,7 +20,7 @@ Welcome to my Cybersecurity Tasks repository! This repository contains a collect
 This repository serves as a portfolio of my practical work in cybersecurity, demonstrating my skills in network security and risk management. Each task includes a description of the objective, the approach taken, and the tools used.
 
 # Tasks
-1. Packet Sniffer
+## 1. Packet Sniffer
 
     Description: A tool developed to capture and analyze network packets in real-time, helping to identify potential security issues.
 
@@ -30,7 +30,7 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
     Location: packet-sniffer/
 
-2. Access Network Packets
+## 2. Access Network Packets
 
     Description: Scripts and tools to access and analyze network packets to monitor traffic and detect anomalies.
 
@@ -38,7 +38,7 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
     Technologies Used: Python, tcpdump, Wireshark.Location: access-network-packets/
 
-3. Risk Calculator
+## 3. Risk Calculator
 
     Description: A tool to assess and calculate potential risks based on predefined criteria, providing insights for risk management and mitigation strategies.
 
