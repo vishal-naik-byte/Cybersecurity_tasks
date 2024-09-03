@@ -22,31 +22,31 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 # Tasks
 ## 1. Packet Sniffer
 
-    Description: A tool developed to capture and analyze network packets in real-time, helping to identify potential security issues.
+   Description: A tool developed to capture and analyze network packets in real-time, helping to identify potential security issues.
 
-    Objectives: Capture network traffic, analyze packet details, identify malicious activity.
+   Objectives: Capture network traffic, analyze packet details, identify malicious activity.
 
-    Technologies Used: Python, Scapy, Wireshark.
+   Technologies Used: Python, Scapy, Wireshark.
 
-    Location: packet-sniffer/
+   Location: packet-sniffer/
 
 ## 2. Access Network Packets
 
-    Description: Scripts and tools to access and analyze network packets to monitor traffic and detect anomalies.
+   Description: Scripts and tools to access and analyze network packets to monitor traffic and detect anomalies.
 
-    Objectives: Understand network traffic patterns, detect unauthorized access or data exfiltration attempts.
+   Objectives: Understand network traffic patterns, detect unauthorized access or data exfiltration attempts.
 
-    Technologies Used: Python, tcpdump, Wireshark.Location: access-network-packets/
+   Technologies Used: Python, tcpdump, Wireshark.Location: access-network-packets/
 
 ## 3. Risk Calculator
 
-    Description: A tool to assess and calculate potential risks based on predefined criteria, providing insights for risk management and mitigation strategies.
+   Description: A tool to assess and calculate potential risks based on predefined criteria, providing insights for risk management and mitigation strategies.
 
-    Objectives: Quantify risk levels, suggest mitigation strategies, and prioritize security efforts.
+   Objectives: Quantify risk levels, suggest mitigation strategies, and prioritize security efforts.
 
-    Technologies Used: Python.
+   Technologies Used: Python.
 
-    Location: risk-calculator/
+   Location: risk-calculator/
 
 # Tools and Technologies
 
