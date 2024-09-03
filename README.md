@@ -58,7 +58,7 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
 # Getting Started
 
-    To explore the tasks:
+   To explore the tasks:
 
     1. Clone the repository:
 
