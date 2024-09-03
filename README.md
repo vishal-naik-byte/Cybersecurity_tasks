@@ -1,12 +1,14 @@
 #Cybersecurity Tasks Repository
 
 Welcome to my Cybersecurity Tasks repository! This repository contains a collection of tasks and exercises that I have completed as part of my journey to becoming a cybersecurity analyst. The tasks cover various aspects of cybersecurity, focusing on practical applications and hands-on learning.
+
 #Table of Contents
-Overview
-Tasks
-1. Packet Sniffer
-2. Access Network Packets
-3. Risk Calculator
+1. Overview
+2. Tasks
+    1. Packet Sniffer
+    2. Access Network Packets
+    3. Risk Calculator
+
 Tools and Technologies
 Getting Started
 Contributing
