@@ -50,11 +50,11 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
 #Tools and Technologies
 
-    Programming Languages: Python.
+   Programming Languages: Python.
 
-    Tools: Scapy, Wireshark, tcpdump.
+   Tools: Scapy, Wireshark, tcpdump.
 
-    Platforms: Linux, Windows.
+   Platforms: Linux, Windows.
 
 #Getting Started
 
@@ -69,12 +69,12 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
 #Contributing
 
-    If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+   If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 #License
 
-    This project is licensed under the MIT License. See the LICENSE file for more details.
+   This project is licensed under the MIT License. See the LICENSE file for more details.
 
 #Contact
 
-    Feel free to reach out via email at your-email@example.com if you have any questions or comments.
+   Feel free to reach out via email at your-email@example.com if you have any questions or comments.
