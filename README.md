@@ -1,8 +1,8 @@
-#Cybersecurity Tasks Repository
+# Cybersecurity Tasks Repository
 
 Welcome to my Cybersecurity Tasks repository! This repository contains a collection of tasks and exercises that I have completed as part of my journey to becoming a cybersecurity analyst. The tasks cover various aspects of cybersecurity, focusing on practical applications and hands-on learning.
 
-#Table of Contents
+# Table of Contents
 1. Overview
 2. Tasks
     1. Packet Sniffer
@@ -15,11 +15,11 @@ Welcome to my Cybersecurity Tasks repository! This repository contains a collect
 6. License
 7. Contact
 
-#Overview
+# Overview
 
 This repository serves as a portfolio of my practical work in cybersecurity, demonstrating my skills in network security and risk management. Each task includes a description of the objective, the approach taken, and the tools used.
 
-#Tasks
+# Tasks
 1. Packet Sniffer
 
     Description: A tool developed to capture and analyze network packets in real-time, helping to identify potential security issues.
@@ -48,7 +48,7 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
     Location: risk-calculator/
 
-#Tools and Technologies
+# Tools and Technologies
 
    Programming Languages: Python.
 
@@ -56,7 +56,7 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
    Platforms: Linux, Windows.
 
-#Getting Started
+# Getting Started
 
     To explore the tasks:
 
@@ -67,14 +67,14 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
     2. Navigate to the relevant task folder to view details and run the scripts.
 
-#Contributing
+# Contributing
 
    If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-#License
+# License
 
    This project is licensed under the MIT License. See the LICENSE file for more details.
 
-#Contact
+# Contact
 
    Feel free to reach out via email at your-email@example.com if you have any questions or comments.
