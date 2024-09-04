@@ -12,8 +12,7 @@ Welcome to my Cybersecurity Tasks repository! This repository contains a collect
 3. Tools and Technologies
 4. Getting Started
 5. Contributing
-6. License
-7. Contact
+6. Contact
 
 # Overview
 
@@ -42,9 +41,9 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
 ## 3. Risk Calculator
 
-   Description: A tool to assess and calculate potential risks based on predefined criteria, providing insights for risk management and mitigation strategies.
+   Description: A tool to assess and calculate potential risks based on predefined criteria, providing insights for risk management.
 
-   Objectives: Quantify risk levels, suggest mitigation strategies, and prioritize security efforts.
+   Objectives: Quantify risk levels, and prioritize security efforts.
 
    Technologies Used: Python.
 
