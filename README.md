@@ -62,7 +62,7 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
     1. Clone the repository:
 
-    git clone https://github.com/yourusername/cybersecurity-tasks.git
+    git clone https://github.com/vishal-naik-byte/cybersecurity-tasks.git
     cd cybersecurity-tasks
 
     2. Navigate to the relevant task folder to view details and run the scripts.
@@ -70,10 +70,6 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 # Contributing
 
    If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-# License
-
-   This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Contact
 
