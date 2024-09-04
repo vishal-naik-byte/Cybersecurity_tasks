@@ -36,7 +36,9 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
    Objectives: Understand network traffic patterns, detect unauthorized access or data exfiltration attempts.
 
-   Technologies Used: Python, tcpdump, Wireshark.Location: access-network-packets/
+   Technologies Used: Python, Wireshark.
+
+   Location: access-network-packets/
 
 ## 3. Risk Calculator
 
@@ -52,9 +54,9 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
    Programming Languages: Python.
 
-   Tools: Scapy, Wireshark, tcpdump.
+   Tools: Scapy, Wireshark.
 
-   Platforms: Linux, Windows.
+   Platforms: Linux.
 
 # Getting Started
 
@@ -73,4 +75,4 @@ This repository serves as a portfolio of my practical work in cybersecurity, dem
 
 # Contact
 
-   Feel free to reach out via email at your-email@example.com if you have any questions or comments.
+   Feel free to reach out via email at vishalnaik12.vn@gmail.com if you have any questions or comments.
