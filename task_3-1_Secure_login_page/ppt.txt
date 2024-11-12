@@ -1,0 +1,195 @@
+Slide 1: Project Title
+
+Title: Flask Login Page with Secure Authentication
+
+Subtitle: A simple, secure login page built using Flask with a modern design.
+
+Image: Optional (e.g., Flask logo or a screenshot of the login page)
+
+
+
+---
+
+Slide 2: Introduction
+
+Objective: To build a simple and secure login page using Flask.
+
+Key Features:
+
+Secure login functionality (username & password).
+
+Password field hidden (input masking).
+
+Flash messages for login success or failure.
+
+Beautiful design with modern CSS.
+
+
+
+
+---
+
+Slide 3: Project Structure
+
+File Structure:
+
+/project
+  /templates
+    login.html
+  app.py
+
+app.py: Contains Flask app logic and routes.
+
+login.html: Contains the login form and front-end design.
+
+
+
+
+---
+
+Slide 4: Flask Backend (app.py)
+
+Flask Setup:
+
+from flask import Flask, render_template, request, redirect, url_for, flash
+app = Flask(__name__)
+app.secret_key = 'your_secret_key'
+
+User Credentials:
+
+Dummy user data: Username = 'user', Password = 'password123'.
+
+
+Login Route:
+
+Handles GET and POST requests.
+
+Checks the entered credentials.
+
+Redirects with a flash message on success or failure.
+
+
+
+
+---
+
+Slide 5: Front-End Design (login.html)
+
+Login Form HTML:
+
+A form with username and password fields.
+
+A submit button to trigger login.
+
+
+Styling:
+
+Centered login form.
+
+Gradient background.
+
+Smooth hover effects on buttons and input fields.
+
+
+Flash Messages:
+
+Success and error messages displayed with appropriate colors.
+
+"Login Successful" or "Invalid Credentials".
+
+
+
+
+---
+
+Slide 6: Code Example - Backend Logic
+
+Display the relevant part of app.py for handling form submissions and validation:
+
+if request.method == 'POST':
+    username = request.form.get('username')
+    password = request.form.get('password')
+    if username == USER_CREDENTIALS['username'] and password == USER_CREDENTIALS['password']:
+        flash("Login Successful!", "success")
+        return redirect(url_for('home'))
+    else:
+        flash("Invalid Credentials", "danger")
+        return redirect(url_for('login'))
+
+
+
+---
+
+Slide 7: Code Example - Front-End (login.html)
+
+Display the relevant part of login.html:
+
+<input type="text" id="username" name="username" class="input-field" placeholder="Username" required>
+<input type="password" id="password" name="password" class="input-field" placeholder="Password" required>
+<button type="submit" class="btn-submit">Login</button>
+
+CSS for Design:
+
+Display key styling snippets to show how the form is made visually appealing.
+
+
+
+
+---
+
+Slide 8: Project Demonstration
+
+Screenshot of the running login page.
+
+Show login success and failure messages.
+
+
+
+---
+
+Slide 9: Testing and Results
+
+Test Cases:
+
+Test with valid credentials (Login Successful).
+
+Test with invalid credentials (Invalid Credentials).
+
+
+Browser View: Screenshot of successful login or failure.
+
+
+
+---
+
+Slide 10: Security Considerations
+
+Password Masking: Password is hidden when typed.
+
+Session Management: Flash messages are used for feedback after form submission.
+
+Storing Passwords: In production, use hashed passwords (e.g., bcrypt).
+
+
+
+---
+
+Slide 11: Future Enhancements
+
+Integrate a database to store user credentials securely.
+
+Add email verification and password reset functionality.
+
+Improve security with CAPTCHA to prevent bot logins.
+
+Style improvements for mobile responsiveness.
+
+
+
+---
+
+Slide 12: Conclusion
+
+Summary: We have built a simple yet effective login system using Flask with a modern design and basic authentication.
+
+Next Steps: Continue adding features and security enhancements.
