@@ -1,0 +1,98 @@
+How It Works
+
+1. scan_port: Connects to a specific port using a socket. If successful, the port is open.
+
+
+2. Multithreading: Uses ThreadPoolExecutor for faster scanning of multiple ports.
+
+
+3. User Input: Allows the user to specify the target host and port range.
+
+
+4. Timeout: Each port scan times out after 1 second to avoid delays.
+
+
+
+
+---
+
+Example Usage
+
+1. Save the code in a file, e.g., port_scanner.py.
+
+
+2. Run the script:
+
+python3 port_scanner.py
+
+
+3. Enter the target host (e.g., 127.0.0.1) and the port range (e.g., 1-1000).
+
+
+4. The script will print whether each port is open or closed.
+
+Features:
+Key Features Added
+
+1. Service Detection:
+
+Uses socket.getservbyport(port) to identify common services (e.g., HTTP, FTP).
+
+Displays "Unknown" if the service is not in the standard list.
+
+
+
+2. Enhanced Error Handling:
+
+Handles invalid port ranges (e.g., non-numeric input).
+
+Catches unexpected exceptions and includes error messages in the output.
+
+
+
+3. Output to Multiple File Formats:
+
+CSV:
+
+Each row contains port, status, service, and error (if any).
+
+
+JSON:
+
+Structured output with the same details as the CSV.
+
+
+
+
+4. Formatted Output:
+
+Results are saved in port_scan_results.csv and port_scan_results.json.
+
+
+
+
+
+---
+
+Example Usage
+
+1. Save the script to a file, e.g., enhanced_port_scanner.py.
+
+
+2. Run the script:
+
+python3 enhanced_port_scanner.py
+
+
+3. Input target host and port range:
+
+Enter the target host (e.g., 127.0.0.1): 127.0.0.1
+Enter port range (e.g., 1-1000): 20-30
+
+
+4. The script scans the specified range and saves the results:
+
+Scan completed. Results saved to:
+  CSV: port_scan_results.csv
+  JSON: port_scan_results.json
+
