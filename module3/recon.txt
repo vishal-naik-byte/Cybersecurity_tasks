@@ -1,0 +1,470 @@
+Whois Lookup:
+
+Whois Record for NinjaKiwi.me
+How does this work?
+Domain Profile
+Registrar 	Gandi SAS
+IANA ID: 81
+URL: https://www.gandi.net
+Whois Server: whois.gandi.net
+
+(p)
+Registrar Status 	clientTransferProhibited
+Dates 	846 days old
+Created on 2022-08-12
+Expires on 2025-08-12
+Updated on 2024-07-14 	
+  
+Name Servers 	COBY.NS.CLOUDFLARE.COM (has 26,000,928 domains)
+HERA.NS.CLOUDFLARE.COM (has 26,000,928 domains)
+	
+  
+IP Address 	104.21.60.15 - 714 other sites hosted on this server
+	
+  
+IP Location 	United States - California - San Jose - Cloudflare Inc.
+ASN 	United States AS13335 CLOUDFLARENET, US (registered Jul 14, 2010)
+Hosting History 	1 change on 2 unique name servers over 2 years 	
+  
+Whois Record ( last updated on 2024-12-05 )
+Domain Name: ninjakiwi.me
+Registry Domain ID: 80b77af614e34ce4b503c9c67d6138a7-DONUTS
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: https://www.gandi.net
+Updated Date: 2024-07-14T01:36:44Z
+Creation Date: 2022-08-12T08:55:11Z
+Registry Expiry Date: 2025-08-12T08:55:11Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +33.170377661
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Ninja Kiwi
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: GB
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this 
+output for information on how to contact the Registrant, Admin, or Tech contact of the queried 
+domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this 
+output for information on how to contact the Registrant, Admin, or Tech contact of the queried 
+domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output 
+for information on how to contact the Registrant, Admin, or Tech contact of the queried domain 
+name.
+Name Server: hera.ns.cloudflare.com
+Name Server: coby.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+DNS Enumeration:
+┌──(kali㉿kali)-[~]
+└─$ dnsrecon -d ninjakiwi.me
+[*] std: Performing General Enumeration against: ninjakiwi.me...
+[-] DNSSEC is not configured for ninjakiwi.me
+[*]      SOA coby.ns.cloudflare.com 173.245.59.92
+[*]      SOA coby.ns.cloudflare.com 108.162.193.92
+[*]      SOA coby.ns.cloudflare.com 172.64.33.92
+[*]      SOA coby.ns.cloudflare.com 2a06:98c1:50::ac40:215c
+[*]      SOA coby.ns.cloudflare.com 2606:4700:58::adf5:3b5c
+[*]      SOA coby.ns.cloudflare.com 2803:f800:50::6ca2:c15c
+[*]      NS hera.ns.cloudflare.com 172.64.32.162
+[*]      Bind Version for 172.64.32.162 "2024.11.1"
+[*]      NS hera.ns.cloudflare.com 173.245.58.162
+[*]      Bind Version for 173.245.58.162 "2024.11.1"
+[*]      NS hera.ns.cloudflare.com 108.162.192.162
+[*]      Bind Version for 108.162.192.162 "2024.11.1"
+[*]      NS hera.ns.cloudflare.com 2606:4700:50::adf5:3aa2
+[*]      Bind Version for 2606:4700:50::adf5:3aa2 "2024.11.1"
+[*]      NS hera.ns.cloudflare.com 2803:f800:50::6ca2:c0a2
+[*]      Bind Version for 2803:f800:50::6ca2:c0a2 "2024.11.1"
+[*]      NS hera.ns.cloudflare.com 2a06:98c1:50::ac40:20a2
+[*]      Bind Version for 2a06:98c1:50::ac40:20a2 "2024.11.1"
+[*]      NS coby.ns.cloudflare.com 172.64.33.92
+[*]      Bind Version for 172.64.33.92 "2024.11.1"
+[*]      NS coby.ns.cloudflare.com 108.162.193.92
+[*]      Bind Version for 108.162.193.92 "2024.11.1"
+[*]      NS coby.ns.cloudflare.com 173.245.59.92
+[*]      Bind Version for 173.245.59.92 "2024.11.1"
+[*]      NS coby.ns.cloudflare.com 2803:f800:50::6ca2:c15c
+[*]      Bind Version for 2803:f800:50::6ca2:c15c "2024.11.1"
+[*]      NS coby.ns.cloudflare.com 2606:4700:58::adf5:3b5c
+[*]      Bind Version for 2606:4700:58::adf5:3b5c "2024.11.1"
+[*]      NS coby.ns.cloudflare.com 2a06:98c1:50::ac40:215c
+[*]      Bind Version for 2a06:98c1:50::ac40:215c "2024.11.1"
+[*]      A ninjakiwi.me 104.21.60.15
+[*]      A ninjakiwi.me 172.67.187.180
+[*]      AAAA ninjakiwi.me 64:ff9b::ac43:bbb4
+[*]      AAAA ninjakiwi.me 64:ff9b::6815:3c0f
+[*] Enumerating SRV Records
+[-] No SRV Records Found for ninjakiwi.me
+
+
+                 ____        _     _ _     _   _____                               
+                / ___| _   _| |__ | (_)___| |_|___ / _ __                          
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|                         
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |                            
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|                            
+                                                                                   
+                # Coded By Ahmed Aboul-Ela - @aboul3la                             
+                                                                                   
+[-] Enumerating subdomains now for ninjakiwi.me                                    
+[-] Searching now in Baidu..
+[-] Searching now in Yahoo..
+[-] Searching now in Google..
+[-] Searching now in Bing..
+[-] Searching now in Ask..
+[-] Searching now in Netcraft..
+[-] Searching now in DNSdumpster..
+[-] Searching now in Virustotal..
+[-] Searching now in ThreatCrowd..
+[-] Searching now in SSL Certificates..
+[-] Searching now in PassiveDNS..
+[!] Error: Virustotal probably now is blocking our requests
+Process DNSdumpster-8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/lib/python3/dist-packages/sublist3r.py", line 269, in run
+    domain_list = self.enumerate()
+                  ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/sublist3r.py", line 649, in enumerate
+    token = self.get_csrftoken(resp)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/sublist3r.py", line 644, in get_csrftoken
+    token = csrf_regex.findall(resp)[0]
+            ~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+[-] Total Unique Subdomains Found: 2
+chat-admin.ninjakiwi.me
+mynk-dash.ninjakiwi.me
+
+Certifiate Tansparency Logs:
+crt.sh ID 	 Logged At  ⇧ 	Not Before 	Not After 	Common Name 	Matching Identities 	Issuer Name
+15385896184 	2024-11-16 	2024-11-03 	2025-02-01 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+15385901752 	2024-11-16 	2024-11-16 	2025-02-14 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+15210740116 	2024-11-04 	2024-11-04 	2025-02-02 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+15210752039 	2024-11-04 	2024-11-04 	2025-02-02 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+15210750341 	2024-11-04 	2024-11-04 	2025-02-02 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WR1
+15203289771 	2024-11-03 	2024-11-03 	2025-02-01 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+15196655536 	2024-11-03 	2024-11-03 	2025-02-01 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WR1
+15193806109 	2024-11-03 	2024-11-03 	2025-02-01 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+15199542951 	2024-11-03 	2024-11-03 	2025-02-01 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Google Trust Services, CN=WR1
+14598924829 	2024-09-18 	2024-09-18 	2024-12-17 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+14445370549 	2024-09-06 	2024-09-06 	2024-12-05 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+14445380459 	2024-09-06 	2024-09-06 	2024-12-05 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WR1
+14438492481 	2024-09-05 	2024-09-05 	2024-12-04 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+14438028629 	2024-09-05 	2024-09-05 	2024-12-04 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Google Trust Services, CN=WR1
+14432425887 	2024-09-05 	2024-09-05 	2024-12-04 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+14432500691 	2024-09-05 	2024-09-05 	2024-12-04 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Google Trust Services, CN=WR1
+13858145974 	2024-07-24 	2024-07-24 	2025-07-24 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+13858145997 	2024-07-24 	2024-07-24 	2025-07-24 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+13826643613 	2024-07-21 	2024-07-21 	2024-10-19 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services, CN=WE1
+13733839220 	2024-07-14 	2024-07-14 	2024-10-12 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E6
+13733835055 	2024-07-14 	2024-07-14 	2024-10-12 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E6
+13753365719 	2024-07-14 	2024-07-14 	2024-10-12 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R10
+13733834964 	2024-07-14 	2024-07-14 	2024-10-12 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R10
+13693212106 	2024-07-10 	2024-07-10 	2024-10-08 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E5
+13685831012 	2024-07-10 	2024-07-10 	2024-10-08 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E5
+13719497028 	2024-07-10 	2024-07-10 	2024-10-08 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R11
+13696791273 	2024-07-10 	2024-07-10 	2024-10-08 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R11
+13151738496 	2024-05-23 	2024-05-23 	2024-08-21 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+13091796043 	2024-05-16 	2024-05-16 	2024-08-14 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+13067694507 	2024-05-16 	2024-05-16 	2024-08-14 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+13091791041 	2024-05-16 	2024-05-16 	2024-08-14 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+13091798711 	2024-05-16 	2024-05-16 	2024-08-14 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+13037203815 	2024-05-12 	2024-05-12 	2024-08-10 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+13036897020 	2024-05-12 	2024-05-12 	2024-08-10 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+13049802486 	2024-05-12 	2024-05-12 	2024-08-10 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+13049817871 	2024-05-12 	2024-05-12 	2024-08-10 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+12512877674 	2024-03-25 	2024-03-25 	2024-06-23 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+12423709622 	2024-03-18 	2024-03-18 	2024-06-16 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+12423705492 	2024-03-18 	2024-03-18 	2024-06-16 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+12423708709 	2024-03-18 	2024-03-18 	2024-06-16 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+12423708609 	2024-03-18 	2024-03-18 	2024-06-16 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+12383498604 	2024-03-14 	2024-03-14 	2024-06-12 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+12383494430 	2024-03-14 	2024-03-14 	2024-06-12 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+12383500505 	2024-03-14 	2024-03-14 	2024-06-12 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+12383493735 	2024-03-14 	2024-03-14 	2024-06-12 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+11873753877 	2024-01-26 	2024-01-26 	2024-04-25 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+11873765444 	2024-01-26 	2024-01-26 	2024-04-25 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+11797029462 	2024-01-19 	2024-01-19 	2024-04-18 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+11797030451 	2024-01-19 	2024-01-19 	2024-04-18 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+11797035452 	2024-01-19 	2024-01-19 	2024-04-18 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+11797027209 	2024-01-19 	2024-01-19 	2024-04-18 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+11755422735 	2024-01-15 	2024-01-15 	2024-04-14 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+11755423944 	2024-01-15 	2024-01-15 	2024-04-14 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+11755423976 	2024-01-15 	2024-01-15 	2024-04-14 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+11755415332 	2024-01-15 	2024-01-15 	2024-04-14 	chat-admin.ninjakiwi.me 	chat-admin.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+11246129915 	2023-11-28 	2023-11-28 	2024-02-26 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+11246113586 	2023-11-28 	2023-11-28 	2024-02-26 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+11160709706 	2023-11-21 	2023-11-21 	2024-02-19 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+11174550019 	2023-11-21 	2023-11-21 	2024-02-19 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+11174549917 	2023-11-21 	2023-11-21 	2024-02-19 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+11166115910 	2023-11-21 	2023-11-21 	2024-02-19 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+10538868330 	2023-09-30 	2023-09-30 	2023-12-29 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+10700131656 	2023-09-23 	2023-09-23 	2023-12-22 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+10496920096 	2023-09-23 	2023-09-23 	2023-12-22 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=E1
+10700131373 	2023-09-23 	2023-09-23 	2023-12-22 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+10496919846 	2023-09-23 	2023-09-23 	2023-12-22 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+10216061111 	2023-08-24 	2023-08-24 	2024-08-23 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+10216061117 	2023-08-24 	2023-08-24 	2024-08-23 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+10044654584 	2023-08-01 	2023-08-01 	2023-10-30 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+10110512027 	2023-08-01 	2023-08-01 	2023-10-30 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+10087271553 	2023-07-26 	2023-07-26 	2023-10-24 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+10007264808 	2023-07-26 	2023-07-26 	2023-10-24 	mynk-dash.ninjakiwi.me 	mynk-dash.ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+9562241212 	2023-06-03 	2023-06-03 	2023-09-01 	ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+9067562895 	2023-04-05 	2023-04-05 	2023-07-04 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+8581722284 	2023-02-05 	2023-02-05 	2023-05-06 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+8156182791 	2022-12-08 	2022-12-08 	2023-03-08 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+7719769115 	2022-10-10 	2022-10-10 	2023-01-08 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+7632470421 	2022-09-26 	2022-09-26 	2022-12-25 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+7622841158 	2022-09-26 	2022-09-26 	2022-12-25 	ninjakiwi.me 	ninjakiwi.me 	C=US, O=Let's Encrypt, CN=R3
+7622575045 	2022-09-26 	2022-09-26 	2023-10-25 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Amazon, OU=Server CA 1B, CN=Amazon
+7622429871 	2022-09-26 	2022-09-26 	2023-10-25 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Amazon, OU=Server CA 1B, CN=Amazon
+7321423290 	2022-08-12 	2022-08-12 	2023-08-12 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+7321423275 	2022-08-12 	2022-08-12 	2023-08-12 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+7321419626 	2022-08-12 	2022-08-12 	2022-11-10 	*.ninjakiwi.me 	*.ninjakiwi.me
+ninjakiwi.me 	C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+
+Website History:
+└─$ waybackurls ninjakiwi.me  
+
+https://ninjakiwi.me/
+http://buildmachine-dundee.ninjakiwi.me/
+http://builds-dundee.ninjakiwi.me/
+https://buildtracking.ninjakiwi.me/
+http://chat-admin.ninjakiwi.me/
+http://deploy.ninjakiwi.me/
+http://mynk-dash.ninjakiwi.me/
+
+
+
+Website Technology
+└─$ whatweb -v ninjakiwi.me
+WhatWeb report for http://ninjakiwi.me
+Status    : 301 Moved Permanently
+Title     : 301 Moved Permanently
+IP        : 104.21.60.15
+Country   : UNITED STATES, US
+
+Summary   : HTTPServer[cloudflare], RedirectLocation[https://ninjakiwi.me/], UncommonHeaders[report-to,nel,cf-ray,alt-svc,server-timing]
+
+Detected Plugins:
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : cloudflare (from server string)
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://ninjakiwi.me/ (from location)
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : report-to,nel,cf-ray,alt-svc,server-timing (from headers)
+
+HTTP Headers:
+        HTTP/1.1 301 Moved Permanently
+        Date: Thu, 05 Dec 2024 13:07:00 GMT
+        Content-Type: text/html
+        Content-Length: 167
+        Connection: close
+        Cache-Control: max-age=3600
+        Expires: Thu, 05 Dec 2024 14:07:00 GMT
+        Location: https://ninjakiwi.me/
+        Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fo3Otu8ro7wAANKePI5B1SgG6jDDIOzCq4weda8xNqZ0%2FS%2Be4dXvo3Txy8A2KwT%2FaYzgX58GJ7StFlTxl%2F%2FDnM8yEZvCFsTFyoz7pk949bYHkYc%2BXMaiYHqVV9Jlr%2Bo%3D"}],"group":"cf-nel","max_age":604800}
+        NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+        Vary: Accept-Encoding
+        Server: cloudflare
+        CF-RAY: 8ed441b56b5979c4-LHR
+        alt-svc: h3=":443"; ma=86400
+        server-timing: cfL4;desc="?proto=TCP&rtt=380915&min_rtt=380915&rtt_var=190457&sent=1&recv=3&lost=0&retrans=0&sent_bytes=0&recv_bytes=155&delivery_rate=0&cwnd=235&unsent_bytes=0&cid=0000000000000000&ts=0&x=0"
+
+WhatWeb report for https://ninjakiwi.me/
+Status    : 302 Found
+Title     : 302 Found
+IP        : 104.21.60.15
+Country   : UNITED STATES, US
+
+Summary   : Cookies[CF_AppSession], HTTPServer[cloudflare], HttpOnly[CF_AppSession], RedirectLocation[https://ninjakiwiauth.cloudflareaccess.com/cdn-cgi/access/login/ninjakiwi.me?kid=d70f2ffc04f1e18d2fc3564f62fa1966bc0ba074442e8a8b156c1899be51cd86&redirect_url=%2F&meta=eyJraWQiOiI4NTkzODlkMTFiYjI1NjE5MmRkZTJiNWFkZDU5NmI2NDE3N2Q3MzNkNWYyMWYyOTAyOTc5NmRmNTNiNDYwMTkxIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTczMzQwNDAyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImQ3MGYyZmZjMDRmMWUxOGQyZmMzNTY0ZjYyZmExOTY2YmMwYmEwNzQ0NDJlOGE4YjE1NmMxODk5YmU1MWNkODYiLCJob3N0bmFtZSI6Im5pbmpha2l3aS5tZSIsImFwcF9zZXNzaW9uX2hhc2giOiIwOTA3ZDc5ZjMxNjZjZmJhOTMyODZhODIzY2Q0YTg3Yzg0MDRhOWExN2JhNWNhZjgwYzc0NDg0NzNhNmVkNzY0IiwibmJmIjoxNzMzNDA0MDI3LCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsInR5cGUiOiJtZXRhIiwicmVkaXJlY3RfdXJsIjoiXC8iLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX2RuIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fg2BQtJu7tqWkjPtLHN-mqGXe8gjkfTAZDGkk_HClPnAblf8TwjbS_BFZ-QYDsH3uNSuqYlsypDJF7mGLWP6pf0b0mh88Ha5psuUSchIwUO1pGtbkNcU8CzIG1VQQoDw1gkvTOIeCWN0CwJbzTTJH2u2WWMtVbWcLMBa-YroYFL7A4hHRo-_t42aCBjUao4Zz1oWfD3YIV-1ChWbcK7WV09tLx8vXhdRRc10XMHMGswFJhz_C6I_4SB36nD-H4--vhMQMSw8bHEg_QpWKwq1nkQPtYjtWnSCReJcqFnaKqC4IGVL1rBAUON-mKvJSZoKF7v-gHXfUfBQjSH4aS1GtA], UncommonHeaders[access-control-allow-credentials,report-to,nel,cf-ray,alt-svc,server-timing]
+
+Detected Plugins:
+[ Cookies ]
+        Display the names of cookies in the HTTP headers. The 
+        values are not returned to save on space. 
+
+        String       : CF_AppSession
+
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : cloudflare (from server string)
+
+[ HttpOnly ]
+        If the HttpOnly flag is included in the HTTP set-cookie 
+        response header and the browser supports it then the cookie 
+        cannot be accessed through client side script - More Info: 
+        http://en.wikipedia.org/wiki/HTTP_cookie 
+
+        String       : CF_AppSession
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://ninjakiwiauth.cloudflareaccess.com/cdn-cgi/access/login/ninjakiwi.me?kid=d70f2ffc04f1e18d2fc3564f62fa1966bc0ba074442e8a8b156c1899be51cd86&redirect_url=%2F&meta=eyJraWQiOiI4NTkzODlkMTFiYjI1NjE5MmRkZTJiNWFkZDU5NmI2NDE3N2Q3MzNkNWYyMWYyOTAyOTc5NmRmNTNiNDYwMTkxIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTczMzQwNDAyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImQ3MGYyZmZjMDRmMWUxOGQyZmMzNTY0ZjYyZmExOTY2YmMwYmEwNzQ0NDJlOGE4YjE1NmMxODk5YmU1MWNkODYiLCJob3N0bmFtZSI6Im5pbmpha2l3aS5tZSIsImFwcF9zZXNzaW9uX2hhc2giOiIwOTA3ZDc5ZjMxNjZjZmJhOTMyODZhODIzY2Q0YTg3Yzg0MDRhOWExN2JhNWNhZjgwYzc0NDg0NzNhNmVkNzY0IiwibmJmIjoxNzMzNDA0MDI3LCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsInR5cGUiOiJtZXRhIiwicmVkaXJlY3RfdXJsIjoiXC8iLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX2RuIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fg2BQtJu7tqWkjPtLHN-mqGXe8gjkfTAZDGkk_HClPnAblf8TwjbS_BFZ-QYDsH3uNSuqYlsypDJF7mGLWP6pf0b0mh88Ha5psuUSchIwUO1pGtbkNcU8CzIG1VQQoDw1gkvTOIeCWN0CwJbzTTJH2u2WWMtVbWcLMBa-YroYFL7A4hHRo-_t42aCBjUao4Zz1oWfD3YIV-1ChWbcK7WV09tLx8vXhdRRc10XMHMGswFJhz_C6I_4SB36nD-H4--vhMQMSw8bHEg_QpWKwq1nkQPtYjtWnSCReJcqFnaKqC4IGVL1rBAUON-mKvJSZoKF7v-gHXfUfBQjSH4aS1GtA (from location)       
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : access-control-allow-credentials,report-to,nel,cf-ray,alt-svc,server-timing (from headers)                                                     
+
+HTTP Headers:
+        HTTP/1.1 302 Moved Temporarily
+        Date: Thu, 05 Dec 2024 13:07:07 GMT
+        Content-Type: text/html
+        Content-Length: 143
+        Connection: close
+        Set-Cookie: CF_AppSession=nd5f295376aac9886; Expires=Fri, 06 Dec 2024 13:07:07 GMT; Path=/; Secure; HttpOnly
+        Access-Control-Allow-Credentials: true
+        Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+        Expires: Thu, 01 Jan 1970 00:00:01 GMT
+        Location: https://ninjakiwiauth.cloudflareaccess.com/cdn-cgi/access/login/ninjakiwi.me?kid=d70f2ffc04f1e18d2fc3564f62fa1966bc0ba074442e8a8b156c1899be51cd86&redirect_url=%2F&meta=eyJraWQiOiI4NTkzODlkMTFiYjI1NjE5MmRkZTJiNWFkZDU5NmI2NDE3N2Q3MzNkNWYyMWYyOTAyOTc5NmRmNTNiNDYwMTkxIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTczMzQwNDAyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImQ3MGYyZmZjMDRmMWUxOGQyZmMzNTY0ZjYyZmExOTY2YmMwYmEwNzQ0NDJlOGE4YjE1NmMxODk5YmU1MWNkODYiLCJob3N0bmFtZSI6Im5pbmpha2l3aS5tZSIsImFwcF9zZXNzaW9uX2hhc2giOiIwOTA3ZDc5ZjMxNjZjZmJhOTMyODZhODIzY2Q0YTg3Yzg0MDRhOWExN2JhNWNhZjgwYzc0NDg0NzNhNmVkNzY0IiwibmJmIjoxNzMzNDA0MDI3LCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsInR5cGUiOiJtZXRhIiwicmVkaXJlY3RfdXJsIjoiXC8iLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX2RuIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fg2BQtJu7tqWkjPtLHN-mqGXe8gjkfTAZDGkk_HClPnAblf8TwjbS_BFZ-QYDsH3uNSuqYlsypDJF7mGLWP6pf0b0mh88Ha5psuUSchIwUO1pGtbkNcU8CzIG1VQQoDw1gkvTOIeCWN0CwJbzTTJH2u2WWMtVbWcLMBa-YroYFL7A4hHRo-_t42aCBjUao4Zz1oWfD3YIV-1ChWbcK7WV09tLx8vXhdRRc10XMHMGswFJhz_C6I_4SB36nD-H4--vhMQMSw8bHEg_QpWKwq1nkQPtYjtWnSCReJcqFnaKqC4IGVL1rBAUON-mKvJSZoKF7v-gHXfUfBQjSH4aS1GtA
+        Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3PvEm%2BALMg3U1pwP0QjXYtbH%2F1DpUqQkWe6paDnjtOSnQ7HlfTZjMxcwyHitVqLNI187Fl8ZI6VZ2SGrXOmFqWzVgBZykBnozGamsxYjcym76g6fdUOjspS%2BBLik5IQ%3D"}],"group":"cf-nel","max_age":604800}
+        NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+        Vary: Accept-Encoding
+        Server: cloudflare
+        CF-RAY: 8ed441e34be6e902-LHR
+        alt-svc: h3=":443"; ma=86400
+        server-timing: cfL4;desc="?proto=TCP&rtt=364867&min_rtt=332264&rtt_var=120979&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2778&recv_bytes=768&delivery_rate=9135&cwnd=252&unsent_bytes=0&cid=161493e07fbca02c&ts=634&x=0"
+
+WhatWeb report for https://ninjakiwiauth.cloudflareaccess.com/cdn-cgi/access/login/ninjakiwi.me?kid=d70f2ffc04f1e18d2fc3564f62fa1966bc0ba074442e8a8b156c1899be51cd86&redirect_url=%2F&meta=eyJraWQiOiI4NTkzODlkMTFiYjI1NjE5MmRkZTJiNWFkZDU5NmI2NDE3N2Q3MzNkNWYyMWYyOTAyOTc5NmRmNTNiNDYwMTkxIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTczMzQwNDAyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImQ3MGYyZmZjMDRmMWUxOGQyZmMzNTY0ZjYyZmExOTY2YmMwYmEwNzQ0NDJlOGE4YjE1NmMxODk5YmU1MWNkODYiLCJob3N0bmFtZSI6Im5pbmpha2l3aS5tZSIsImFwcF9zZXNzaW9uX2hhc2giOiIwOTA3ZDc5ZjMxNjZjZmJhOTMyODZhODIzY2Q0YTg3Yzg0MDRhOWExN2JhNWNhZjgwYzc0NDg0NzNhNmVkNzY0IiwibmJmIjoxNzMzNDA0MDI3LCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsInR5cGUiOiJtZXRhIiwicmVkaXJlY3RfdXJsIjoiXC8iLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX2RuIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fg2BQtJu7tqWkjPtLHN-mqGXe8gjkfTAZDGkk_HClPnAblf8TwjbS_BFZ-QYDsH3uNSuqYlsypDJF7mGLWP6pf0b0mh88Ha5psuUSchIwUO1pGtbkNcU8CzIG1VQQoDw1gkvTOIeCWN0CwJbzTTJH2u2WWMtVbWcLMBa-YroYFL7A4hHRo-_t42aCBjUao4Zz1oWfD3YIV-1ChWbcK7WV09tLx8vXhdRRc10XMHMGswFJhz_C6I_4SB36nD-H4--vhMQMSw8bHEg_QpWKwq1nkQPtYjtWnSCReJcqFnaKqC4IGVL1rBAUON-mKvJSZoKF7v-gHXfUfBQjSH4aS1GtA                           
+Status    : 404 Not Found
+Title     : Error ・ Cloudflare Access
+IP        : 104.19.195.29
+Country   : UNITED STATES, US
+
+Summary   : Cookies[CF_Session], HTML5, HTTPServer[cloudflare], HttpOnly[CF_Session], UncommonHeaders[cf-trace,cf-version,referrer-policy,cf-ray]
+
+Detected Plugins:
+[ Cookies ]
+        Display the names of cookies in the HTTP headers. The 
+        values are not returned to save on space. 
+
+        String       : CF_Session
+
+[ HTML5 ]
+        HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : cloudflare (from server string)
+
+[ HttpOnly ]
+        If the HttpOnly flag is included in the HTTP set-cookie 
+        response header and the browser supports it then the cookie 
+        cannot be accessed through client side script - More Info: 
+        http://en.wikipedia.org/wiki/HTTP_cookie 
+
+        String       : CF_Session
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : cf-trace,cf-version,referrer-policy,cf-ray (from headers)
+
+HTTP Headers:
+        HTTP/1.1 404 Not Found
+        Date: Thu, 05 Dec 2024 13:07:11 GMT
+        Content-Type: text/html
+        Transfer-Encoding: chunked
+        Connection: close
+        Set-Cookie: CF_Session=n7POm9O4bJUZY7EwU; Path=/; Secure; Expires=Thu, 05 Dec 2024 17:07:11 GMT; HttpOnly; SameSite=none
+        cf-trace: 4a9e9106d11afeb0e5d7512cb94b4661
+        cf-version: 1873-947997e
+        Referrer-Policy: strict-origin-when-cross-origin
+        Vary: Accept-Encoding
+        Server: cloudflare
+        CF-RAY: 8ed441fd8fcc6eca-BOM
+        Content-Encoding: gzip
+
+
+
